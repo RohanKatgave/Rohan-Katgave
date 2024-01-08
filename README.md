@@ -1,3 +1,3 @@
 ## Hii there
-* I'M currently Working on myself.
+* A passionate full stack java developer.
 
